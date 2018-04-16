@@ -57,3 +57,5 @@ Export-Package: javax.json,
  org.stringtemplate.v4.debug,
  org.stringtemplate.v4.gui,
  org.stringtemplate.v4.misc
+Bundle-Vendor: MDD4ABMS
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
